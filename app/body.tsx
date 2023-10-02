@@ -25,7 +25,7 @@ export default function Body() {
         <>
             <div className="mb-5">
                 <h1 className="text-[30px] font-bold dark:text-slate-100 ">THANH NAM</h1>
-                <p className='text-slate-400 typing-infomation'>I'm write code and joy life.</p>
+                <p className='text-slate-400 typing-infomation'>I`m write code and joy life.</p>
             </div>
             <div className="flex items-center">
                 <div>
@@ -38,10 +38,10 @@ export default function Body() {
                         />
                 </div>
                 <div className="ml-2 text-slate-400 text-[12px]">
-                    Hello, I'm Nam, and I work in the field of Information Technology. <br/>
+                    Hello, I`m Nam, and I work in the field of Information Technology. <br/>
                     I have a passion for web development and I am experienced in programming using languages like PHP, Vue.js, and React.<br/>
                     In addition to my full-time job, I also work as a freelance developer, allowing me to take on exciting projects and continually expand my skillset.<br/>
-                    I'm dedicated to creating innovative and user-friendly web applications that make a difference in the digital world.
+                    I`m dedicated to creating innovative and user-friendly web applications that make a difference in the digital world.
                 </div>
             </div>
             <div className='flex mt-10 text-slate-400'>
